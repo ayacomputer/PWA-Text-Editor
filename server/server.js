@@ -9,4 +9,4 @@ app.use(express.json());
 
 require('./routes/htmlRoutes')(app);
 
-app.listen(PORT, () => console.log(`Now listening on port: ${PORT}`));
+app.listen(PORT, () => console.log(`Now listening on port: http://localhost:${PORT}`));
