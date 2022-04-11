@@ -41,6 +41,8 @@ This is a full-stack application (code snippets) that runs in the browser. This 
 
 [Click Here for the deployed app](https://ayacomputer-pwa-text-editor.herokuapp.com/)
 
+![ProductScreen Shot](./assets/product2.png)
+
 
 
 <p align = "right">(<a href="#top">back to top</a>)</>
