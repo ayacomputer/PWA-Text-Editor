@@ -59,6 +59,7 @@ h1 {
 
 .CodeMirror {
   font-family: Ubuntu Mono, Nunito, Monospace, sans-serif;
+  height: fit-content;
 }
 
 @keyframes rotate-forever {
