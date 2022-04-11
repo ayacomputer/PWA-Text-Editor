@@ -56,7 +56,6 @@ This is a full-stack application (code snippets) that runs in the browser. This 
 * [style-loader](https://www.npmjs.com/package/style-loader)
 * [Webpack](https://webpack.js.org/)
 * [html-webpack-plugin](https://www.npmjs.com/package/html-webpack-plugin)
-* [html-webpack-plugin](https://www.npmjs.com/package/html-webpack-plugin)
 * [webpack-pwa-manifest](https://www.npmjs.com/package/webpack-pwa-manifest)
 * [code-mirror-themes](https://www.npmjs.com/package/code-mirror-themes)
 
