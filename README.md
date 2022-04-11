@@ -33,13 +33,13 @@
 ## About The Project
 
 
-![ProductScreen Shot](./assets/product.gif)
+![ProductScreen Shot](./assets/product.png)
 
 
 This is a full-stack application (code snippets) that runs in the browser. This features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
 
 
-[Click Here for the deployed app]()
+[Click Here for the deployed app](https://ayacomputer-pwa-text-editor.herokuapp.com/)
 
 
 
