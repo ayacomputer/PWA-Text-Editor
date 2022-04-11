@@ -97,6 +97,6 @@ See LICENSE.txt for more information.
 
 Ayako Woollan - ayako.woollan@gmail.com
 
-Project Link: [https://github.com/ayacomputer/18-Social-Network-API](https://github.com/ayacomputer/19-PWA-Text-Editor)
+Project Link: [https://github.com/ayacomputer/19-PWA-Text-Editor](https://github.com/ayacomputer/19-PWA-Text-Editor)
 
 <p align="right">(<a href="#top">back to top</a>)</>
