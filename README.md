@@ -36,7 +36,7 @@
 ![ProductScreen Shot](./assets/product.png)
 
 
-This is a full-stack application (code snippets) that runs in the browser. This features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
+This is a full-stack application (code snippets) that runs in the browser. This features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline and you can download the app by simply click 'install' button. 
 
 
 [Click Here for the deployed app](https://ayacomputer-pwa-text-editor.herokuapp.com/)
@@ -55,6 +55,9 @@ This is a full-stack application (code snippets) that runs in the browser. This 
 * [css-loader](https://www.npmjs.com/package/css-loader)
 * [style-loader](https://www.npmjs.com/package/style-loader)
 * [Webpack](https://webpack.js.org/)
+* [html-webpack-plugin](https://www.npmjs.com/package/html-webpack-plugin)
+* [html-webpack-plugin](https://www.npmjs.com/package/html-webpack-plugin)
+* [webpack-pwa-manifest](https://www.npmjs.com/package/webpack-pwa-manifest)
 * [code-mirror-themes](https://www.npmjs.com/package/code-mirror-themes)
 
 <p align = "right"> (<a href="#top">back to top</a>)</>
